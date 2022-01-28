@@ -1,4 +1,2 @@
 #@page
 GET https://reqres.in/api/users?page=5
-
-
